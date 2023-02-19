@@ -1,0 +1,183 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box ;
+    font-family: 'Kanit', sans-serif;
+    text-decoration:none;
+}
+.container{
+    width:100vw;
+    height:100vh;
+    padding-top:80px;
+    animation:pop 800ms ease-in-out 1;
+    animation-delay:2s;
+}
+@keyframes pop{
+    0%{scale:0;opacity:0;}
+    100%{scale:1;opacity:1;}
+}
+.app_icon{
+    width:170px;
+    height:170px;
+    margin:0 auto;
+    padding:10px;
+    background-size:cover;
+    border-radius:30px;
+    background:transparent;
+    animation:icon 2s linear infinite;
+}
+@keyframes icon{
+    0%{scale:1;}
+    50%{scale:1.07;}
+    100%{scale:1;}
+}
+.shadow{
+    width:80px;
+    height:10px;
+    border-radius:70%;
+    background:rgba(0,0,0,.2);
+    margin:0 auto;
+    margin-top:20px;
+    animation:shadow 2s linear infinite;
+}
+@keyframes shadow{
+    0%{scale:.9;}
+    50%{scale:1.07;}
+    100%{scale:.9;}
+}
+.app_name{
+    width:100vw;
+    height:auto;
+    padding:10px;
+    font-size:25px;
+    text-align:center ;
+    margin-top:15px;
+}
+.info_list{
+    width:100vw;
+    height:auto;
+    
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    margin-top:10px;
+    font-size:15px;
+}
+.info_list div{
+    padding:2px 12px 5px 12px;
+}
+.info_list div:active{
+    background:rgba(0,0,0,.06);
+}
+.rate{
+    border-right:.5px solid #000;
+}
+.download{
+    padding:2px 10px 5px 12px;
+}
+.install{
+    border-left:.5px solid #000;
+}
+.sr1{
+    font-size:10px;
+    text-align:center;
+    margin:0 auto;
+    margin-left:-15px;
+}
+.sr2{
+    font-size:10px;
+    text-align:center;
+    margin:0 auto;
+    margin-left:-10px;
+}
+.sr3{
+    font-size:10px;
+    text-align:center;
+    margin:0 auto;
+    margin-left:-7px;
+}
+.install_list{
+    width:100vw;
+    height:auto;
+    display:flex;
+    align-items:center;
+    justify-content:space-evenly;
+    margin-top:15px;
+    font-size:15px;
+}
+.install_list button{
+    width:110px;
+    padding:6px;
+    background:transparent;
+    border:1.3px solid #d7d7d7;
+    border-radius:5px;
+}
+.install_list a{
+    color:#fff;
+    cursor:none;
+    border-radius:5px;
+}
+.install_list a button{
+    color:#fff;
+    background:green;
+    border-radius:5px;
+}
+.install_list button:active{
+    opacity:.8;
+    scale:1.05;
+}
+.google_play{
+    width:110px;
+    height:40px;
+    background:transparent url(https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Google_Play_2016_logo.svg/2560px-Google_Play_2016_logo.svg.png);
+    background-size:contain;
+    background-repeat:no-repeat ;
+    margin:0 auto;
+    margin-top:90px;
+}
+.load_cont{
+    width:100vw;
+    height:100vh;
+    position:absolute;
+    top:0;
+    right:0;
+    z-index:9999;
+    background:rgba(0,0,0,.5);
+    display:flex;
+    align-items:center;
+    z-index:100;
+    justify-content:center;
+}
+.loader{
+    width:180px;
+    height:180px;
+    background:white;
+    border-radius:25px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.loading{
+    width:120px;
+    height:120px;
+    border:10px solid green;
+    border-top:10px solid transparent;
+    border-radius:50%;
+    animation:load 1s linear infinite;
+}
+@keyframes load{
+    0%{rotate:0deg;}
+    100%{rotate:360deg;}
+}
+.again{
+    width:100vw;
+    height:100vh;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    z-index:10000;
+    position:fixed;
+    top:0;
+    right:0;
+}

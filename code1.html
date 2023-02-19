@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.3/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/d3c9fc67a3.js" crossorigin="anonymous"></script>
+        <title>Google Ads UI</title>
+    </head>
+    <body>
+   <div class="container">
+    <div class="app_icon"></div>
+     <div class="shadow"></div>
+    <div class="app_name"></div>
+    
+   <div class="info_list">
+     <div class="rate"><span></span> <i class="fa fa-star"></i><br /><div class="sr1"></div></div>
+      <div class="download"><span></span><i class="fa fa-download"></i><br /><div class="sr2">Downloads</div></div>
+     <div class="install"><span>FREE</span><br /><div class="sr3">Install</div></div>
+   </div>
+   
+   <div class="install_list">
+     <button class="close">close</button>
+     <a href="#"> <button>install</button></a>
+   </div>
+   
+   <div class="google_play"></div>
+   </div>
+   
+   <div class="load_cont">
+    <div class="loader"><div class="loading"></div></div>
+    </div>
+    
+    <div class="again"><p>Click again to open Ads</p></div>
+    <script>
+$(".again").hide();
+window.onload=()=>{
+setTimeout(()=>{
+$(".load_cont").fadeOut(500);
+$(".install_list .close").click(()=>{
+$(".container").css({"scale":"0","transition":"800ms"});
+$(".again").fadeIn(1150);
+});
+    Apps = [{
+        "name":"Sololearn",
+        "reviews":"567K reviews",
+        "downloads":"10M+",
+        "rates":"4.5", "url":"https://play.google.com/store/apps/details?id=com.sololearn",
+        "icon":"url(https://blob.sololearn.com/avatars/sololearn.png)"
+    },{
+        "name":"Binance",
+        "reviews":"1M reviews",
+        "downloads":"50M+",
+        "rates":"4.4", "url":"https://play.google.com/store/apps/details?id=com.binance.dev",
+        "icon":"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS86RM-1vpwm4jLNlkdE5_gpMD8g_TrOd5A2A&usqp=CAU)"
+    },{
+        "name":"Netflix",
+        "reviews":"12M reviews",
+        "downloads":"1B+",
+        "rates":"4.3", "url":"https://play.google.com/store/apps/details?id=com.netflix.mediaclient",
+        "icon":"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5QNXPRTzPbYsYZafs4DLbHM_NmaNi5NYhLQ&usqp=CAU)"
+    },{
+        "name":"Amazon",
+        "reviews":"3M reviews",
+        "downloads":"500M+",
+        "rates":"4.2", "url":"https://play.google.com/store/apps/details?id=com.amazon.mShop.android.shopping",
+        "icon":"url(https://merivis.org/wp-content/uploads/2018/02/Amazon-Logo-Transparent-PNG.png)"
+    },{
+        "name":"Paypal",
+        "reviews":"2M reviews",
+        "downloads":"100M+",
+        "rates":"3.9", "url":"https://play.google.com/store/apps/details?id=com.paypal.android.p2pmobile",
+        "icon":"url(https://www.freepnglogos.com/uploads/paypal-logo-png-7.png)"
+    },{
+        "name":"Instagram",
+        "reviews":"138M reviews",
+        "downloads":"1B+",
+        "rates":"4.4", "url":"https://play.google.com/store/apps/details?id=com.instagram.android",
+        "icon":"url(https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/640px-Instagram_icon.png)"
+    },{
+        "name":"Facebook",
+        "reviews":"127M reviews",
+        "downloads":"5B+",
+        "rates":"4.2", "url":"https://play.google.com/store/apps/details?id=com.facebook.katana",
+        "icon":"url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/1024px-Facebook_Logo_%282019%29.png)"
+    },{
+        "name":"Bigo Live",
+        "reviews":"5M reviews",
+        "downloads":"500M+",
+        "rates":"4.4", "url":"https://play.google.com/store/apps/details?id=sg.bigo.live",
+        "icon":"url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQOdnjgajQ3k3H_1M66OM_SK757rOFqiaPiQ&usqp=CAU)"
+    },{
+        "name":"Truecaller",
+        "reviews":"18M reviews",
+        "downloads":"1B+",
+        "rates":"4.4", "url":"https://play.google.com/store/apps/details?id=com.truecaller",
+        "icon":"url(https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/TrueCaller_Icon.png/800px-TrueCaller_Icon.png)"
+    }];
+    
+Rndm = Math.floor(Math.random()*Apps.length);
+SelectedApp = Apps[Rndm];
+$(".app_name").text(SelectedApp.name); document.querySelector(".app_icon").style.background=SelectedApp.icon;
+$(".app_icon").css({"background-size":"cover"});
+$(".rate span").text(SelectedApp.rates);
+$(".sr1").html(SelectedApp.reviews);
+$(".download span").text(SelectedApp.downloads);
+$(".install_list a").attr("href",SelectedApp.url);
+window.onclick=()=>{
+if($(".container").css("scale")==0){$(".container").css({"scale":"1","transition":"800ms"});
+$(".again").hide();
+Rndm = Math.floor(Math.random()*Apps.length);
+SelectedApp = Apps[Rndm];
+$(".app_name").text(SelectedApp.name); document.querySelector(".app_icon").style.background=SelectedApp.icon;
+$(".app_icon").css({"background-size":"cover"});
+$(".rate span").text(SelectedApp.rates);
+$(".sr1").html(SelectedApp.reviews);
+$(".download span").text(SelectedApp.downloads);
+$(".install_list a").attr("href",SelectedApp.url);
+    }}},2000);}
+    </script>
+    </body>
+</html>
