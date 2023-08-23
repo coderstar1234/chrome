@@ -1,4 +1,5 @@
 <h1 align="Center"><b>Web Designing for Browsers</b></h1>
+
 Welcome to the Web Designing for Browsers repository! This project aims to provide comprehensive information and resources for web developers and designers to create stunning and responsive websites that work seamlessly across different browsers. Whether you're a seasoned developer or just starting your journey in web design, this repository has something for everyone.
 
 Table of Contents
