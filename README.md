@@ -6,7 +6,7 @@
 <h1 align="Center"><i>Table of Contents:-</i></h1>
 
 - Introduction to Web Designing
-Responsive Design
+- Responsive Design
 Cross-Browser Compatibility
 HTML Best Practices
 CSS Styling Techniques
