@@ -10,7 +10,7 @@
 - Cross-Browser Compatibility
 - HTML Best Practices
 - CSS Styling Techniques
-JavaScript Interactivity
+- JavaScript Interactivity
 Performance Optimization
 Resources
 Contributing
