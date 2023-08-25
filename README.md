@@ -9,7 +9,7 @@
 - Responsive Design
 - Cross-Browser Compatibility
 - HTML Best Practices
-CSS Styling Techniques
+- CSS Styling Techniques
 JavaScript Interactivity
 Performance Optimization
 Resources
