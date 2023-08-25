@@ -4,7 +4,7 @@
 - Whether you're a seasoned developer or just starting your journey in web design, this repository has something for everyone.
   <hr>
 <h1 align="Center"><i>Table of Contents:-</i></h1>
-Introduction to Web Designing
+- Introduction to Web Designing
 Responsive Design
 Cross-Browser Compatibility
 HTML Best Practices
