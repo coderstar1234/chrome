@@ -8,7 +8,7 @@
 - Introduction to Web Designing
 - Responsive Design
 - Cross-Browser Compatibility
-HTML Best Practices
+- HTML Best Practices
 CSS Styling Techniques
 JavaScript Interactivity
 Performance Optimization
