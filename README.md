@@ -135,7 +135,7 @@ Contributing
 Contributions to this repository are highly encouraged! If you have any valuable insights, tips, or resources related to web designing for browsers, please feel free to contribute by submitting a pull request.
 
 Before contributing, please read our Contribution Guidelines for more information.
-
+<hr>
 License
 This project is licensed under the MIT License, which means you're free to use, modify, and distribute the content as long as you provide appropriate attribution and include the original license.
 <hr>
