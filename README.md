@@ -13,7 +13,7 @@
 - JavaScript Interactivity
 - Performance Optimization
 Resources
-Contributing
+- Contributing
 License
 <hr>
 Introduction to Web Designing
