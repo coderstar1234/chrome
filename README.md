@@ -11,7 +11,7 @@
 - HTML Best Practices
 - CSS Styling Techniques
 - JavaScript Interactivity
-Performance Optimization
+- Performance Optimization
 Resources
 Contributing
 License
