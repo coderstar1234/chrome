@@ -12,7 +12,7 @@
 - CSS Styling Techniques
 - JavaScript Interactivity
 - Performance Optimization
-Resources
+- Resources
 - Contributing
 License
 <hr>
