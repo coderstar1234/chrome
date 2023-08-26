@@ -15,6 +15,7 @@ Performance Optimization
 Resources
 Contributing
 License
+<hr>I
 Introduction to Web Designing
 In this section, you'll find foundational concepts and principles of web designing, including the importance of user experience, design thinking, and layout strategies.
 
