@@ -17,6 +17,7 @@
 - License
 <hr>
 <h1 align="Center"><i>Introduction to Web Designing:-</i></h1>
+
 In this section, you'll find foundational concepts and principles of web designing, including the importance of user experience, design thinking, and layout strategies.
 
 Responsive Design
