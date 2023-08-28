@@ -22,7 +22,7 @@
 <hr>
 <h1 align="Center"><i>Responsive Design<h1 align="Center"><i>
   
-Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. 
+- Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. 
 Explore media queries, flexible grids, and fluid images to ensure a consistent user experience across all platforms.
 
 Cross-Browser Compatibility
