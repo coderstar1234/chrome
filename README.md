@@ -22,7 +22,8 @@
 <hr>
 <h1 align="Center"><i>Responsive Design<h1 align="Center"><i>
   
-Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. Explore media queries, flexible grids, and fluid images to ensure a consistent user experience across all platforms.
+Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. 
+Explore media queries, flexible grids, and fluid images to ensure a consistent user experience across all platforms.
 
 Cross-Browser Compatibility
 Understand the challenges posed by different web browsers and versions. Discover techniques to write code that works consistently on popular browsers like Chrome, Firefox, Safari, and Edge.
