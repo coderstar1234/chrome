@@ -53,7 +53,7 @@ This project is licensed under the MIT License, which means you're free to use, 
 
 We hope that this repository serves as a valuable resource for your web designing endeavors. Feel free to explore the different sections, contribute your knowledge, and create amazing web experiences for users across the globe. Happy coding! 🚀
 Welcome to the Web Designing for Browsers repository! This project aims to provide comprehensive information and resources for web developers and designers to create stunning and responsive websites that work seamlessly across different browsers. Whether you're a seasoned developer or just starting your journey in web design, this repository has something for everyone.
-
+<hr>
 Table of Contents
 Introduction to Web Designing
 Responsive Design
