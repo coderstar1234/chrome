@@ -113,7 +113,8 @@ Contributing
 License
 <hr>
 Introduction to Web Designing
-In this section, you'll find foundational concepts and principles of web designing, including the importance of user experience, design thinking, and layout strategies.
+
+- In this section, you'll find foundational concepts and principles of web designing, including the importance of user experience, design thinking, and layout strategies.
 
 Responsive Design
 Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. Explore media queries, flexible grids, and fluid images to ensure a consistent user experience across all platforms.
