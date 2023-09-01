@@ -20,17 +20,19 @@
 
 - In this section, you'll find foundational concepts and principles of web designing, including the importance of user experience, design thinking, and layout strategies.
 <hr>
-<h1 align="Center"><i>Responsive Design</h1>
+<h1 align="Center"><i>Responsive Design</i></h1>
   
 - Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. 
 - Explore media queries, flexible grids, and fluid images to ensure a consistent user experience across all platforms.
 <hr>
-Cross-Browser Compatibility
+<h1 align="Center"><i>Cross-Browser Compatibility</i></h1>
+  
 
 - Understand the challenges posed by different web browsers and versions.
 - Discover techniques to write code that works consistently on popular browsers like Chrome, Firefox, Safari, and Edge.
 
-HTML Best Practices
+<h1 align="Center"><i>HTML Best Practices</i></h1>
+  
 
 - Dive into best practices for writing clean, semantic, and accessible HTML code. - Learn about proper tag usage, structuring content, and optimizing for search engines.
 
