@@ -28,7 +28,7 @@
 Cross-Browser Compatibility
 
 - Understand the challenges posed by different web browsers and versions.
- Discover techniques to write code that works consistently on popular browsers like Chrome, Firefox, Safari, and Edge.
+- Discover techniques to write code that works consistently on popular browsers like Chrome, Firefox, Safari, and Edge.
 
 HTML Best Practices
 Dive into best practices for writing clean, semantic, and accessible HTML code. Learn about proper tag usage, structuring content, and optimizing for search engines.
