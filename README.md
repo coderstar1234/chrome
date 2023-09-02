@@ -38,7 +38,8 @@
 
 CSS Styling Techniques
 
-- Explore advanced CSS techniques for styling web pages. Topics include CSS preprocessors, flexbox, grid layout, typography, and creating visually appealing designs.
+- Explore advanced CSS techniques for styling web pages.
+- Topics include CSS preprocessors, flexbox, grid layout, typography, and creating visually appealing designs.
 
 JavaScript Interactivity
 
