@@ -37,6 +37,7 @@
 - Dive into best practices for writing clean, semantic, and accessible HTML code. - Learn about proper tag usage, structuring content, and optimizing for search engines.
 
 CSS Styling Techniques
+
 Explore advanced CSS techniques for styling web pages. Topics include CSS preprocessors, flexbox, grid layout, typography, and creating visually appealing designs.
 
 JavaScript Interactivity
