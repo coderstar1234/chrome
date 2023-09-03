@@ -35,7 +35,7 @@
   
 
 - Dive into best practices for writing clean, semantic, and accessible HTML code. - Learn about proper tag usage, structuring content, and optimizing for search engines.
-
+  <hr>
 CSS Styling Techniques
 
 - Explore advanced CSS techniques for styling web pages.
