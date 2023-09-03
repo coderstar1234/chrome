@@ -20,7 +20,7 @@
 
 - In this section, you'll find foundational concepts and principles of web designing, including the importance of user experience, design thinking, and layout strategies.
 <hr>
-<h1 align="Center"><i>Responsive Design</i></h1>
+<h1 align="Center"><i>Responsive Design:-</i></h1>
   
 - Learn about creating responsive and adaptive web layouts that seamlessly adjust to various screen sizes and devices. 
 - Explore media queries, flexible grids, and fluid images to ensure a consistent user experience across all platforms.
