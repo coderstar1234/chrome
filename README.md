@@ -34,7 +34,8 @@
 <h1 align="Center"><i>HTML Best Practices</i></h1>
   
 
-- Dive into best practices for writing clean, semantic, and accessible HTML code. - Learn about proper tag usage, structuring content, and optimizing for search engines.
+- Dive into best practices for writing clean, semantic, and accessible HTML code.
+ - Learn about proper tag usage, structuring content, and optimizing for search engines.
   <hr>
 <h1 align="Center"><i>CSS Styling Techniques</i></h1>
 
