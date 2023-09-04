@@ -48,7 +48,8 @@ JavaScript Interactivity
 <hr>
 Performance Optimization
 
-Optimize your website's performance for faster loading times and improved user satisfaction. Discover techniques for minimizing file sizes, lazy loading images, and reducing HTTP requests.
+- Optimize your website's performance for faster loading times and improved user satisfaction.
+- Discover techniques for minimizing file sizes, lazy loading images, and reducing HTTP requests.
 
 Resources
 Find a curated list of external resources, including articles, tutorials, tools, and frameworks that can aid your web designing journey.
