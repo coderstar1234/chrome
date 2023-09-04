@@ -47,6 +47,7 @@ JavaScript Interactivity
 - From DOM manipulation to event handling, this section covers the essentials of client-side scripting.
 <hr>
 Performance Optimization
+
 Optimize your website's performance for faster loading times and improved user satisfaction. Discover techniques for minimizing file sizes, lazy loading images, and reducing HTTP requests.
 
 Resources
