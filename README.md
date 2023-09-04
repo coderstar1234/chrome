@@ -40,7 +40,7 @@
 
 - Explore advanced CSS techniques for styling web pages.
 - Topics include CSS preprocessors, flexbox, grid layout, typography, and creating visually appealing designs.
-
+<hr>
 JavaScript Interactivity
 
 - Learn how to add interactivity and dynamic behavior to your websites using JavaScript.
