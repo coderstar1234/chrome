@@ -53,6 +53,7 @@ Performance Optimization
 - Discover techniques for minimizing file sizes, lazy loading images, and reducing HTTP requests.
 
 Resources
+
 Find a curated list of external resources, including articles, tutorials, tools, and frameworks that can aid your web designing journey.
 
 Contributing
