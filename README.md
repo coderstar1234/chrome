@@ -60,7 +60,7 @@ Contributing
 
 - Contributions to this repository are highly encouraged! If you have any valuable insights, tips, or resources related to web designing for browsers, please feel free to contribute by submitting a pull request.
 
-Before contributing, please read our Contribution Guidelines for more information.
+- Before contributing, please read our Contribution Guidelines for more information.
 <hr>
 <h1 align="Center"><i>License:-</i></h1>
 
