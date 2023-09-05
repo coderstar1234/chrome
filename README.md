@@ -54,7 +54,7 @@ Performance Optimization
 
 Resources
 
-Find a curated list of external resources, including articles, tutorials, tools, and frameworks that can aid your web designing journey.
+- Find a curated list of external resources, including articles, tutorials, tools, and frameworks that can aid your web designing journey.
 
 Contributing
 
