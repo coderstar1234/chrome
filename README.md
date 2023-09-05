@@ -57,7 +57,7 @@ Find a curated list of external resources, including articles, tutorials, tools,
 
 Contributing
 
-Contributions to this repository are highly encouraged! If you have any valuable insights, tips, or resources related to web designing for browsers, please feel free to contribute by submitting a pull request.
+- Contributions to this repository are highly encouraged! If you have any valuable insights, tips, or resources related to web designing for browsers, please feel free to contribute by submitting a pull request.
 
 Before contributing, please read our Contribution Guidelines for more information.
 <hr>
