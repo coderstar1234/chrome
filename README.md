@@ -52,7 +52,7 @@ Performance Optimization
 - Optimize your website's performance for faster loading times and improved user satisfaction.
 - Discover techniques for minimizing file sizes, lazy loading images, and reducing HTTP requests.
 
-Resources
+<h1 align="Center"><i>Resources:-</i></h1>
 
 - Find a curated list of external resources, including articles, tutorials, tools, and frameworks that can aid your web designing journey.
 
