@@ -69,7 +69,7 @@
 <hr>
 
 - We hope that this repository serves as a valuable resource for your web designing endeavors. 
-- Feel free to explore the different sections, contribute your knowledge, and create amazing web experiences for users across the globe. <h1 align="Center"><i>Happy coding! 🚀:-</i></h1>
+- Feel free to explore the different sections, contribute your knowledge, and create amazing web experiences for users across the globe. <h1 align="Center"><i>🎈💗Happy coding! 🚀</i></h1>
 
 <hr>
 
