@@ -30,7 +30,7 @@
 - Understand the challenges posed by different web browsers and versions.
 - Discover techniques to write code that works consistently on popular browsers like Chrome, Firefox, Safari, and Edge.
 <hr>
-<h1 align="Center"><i>HTML Best Practices</i></h1>
+<h1 align="Center"><i>HTML Best Practices:</i></h1>
   
 
 - Dive into best practices for writing clean, semantic, and accessible HTML code.
