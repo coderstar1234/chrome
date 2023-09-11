@@ -62,7 +62,7 @@
 
 - Before contributing, please read our Contribution Guidelines for more information.
 <hr>
-<h1 align="Center"><i>License:-</i></h1>
+<h1 align="Center"><i>License 🪪:-</i></h1>
 
 - This project is licensed under the MIT License, which means you're free to use, modify, and distribute. 
 - The content as long as you provide appropriate attribution and include the original license.
