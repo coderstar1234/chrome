@@ -36,7 +36,7 @@
 - Dive into best practices for writing clean, semantic, and accessible HTML code.
  - Learn about proper tag usage, structuring content, and optimizing for search engines.
   <hr>
-<h1 align="Center"><i>CSS Styling Techniques:-</i></h1>
+<h1 align="Center"><i>CSS Styling Techniques📱:-</i></h1>
 
 - Explore advanced CSS techniques for styling web pages.
 - Topics include CSS preprocessors, flexbox, grid layout, typography, and creating visually appealing designs.
