@@ -46,7 +46,7 @@
 - Learn how to add interactivity and dynamic behavior to your websites using JavaScript.
 - From DOM manipulation to event handling, this section covers the essentials of client-side scripting.
 <hr>
-<h1 align="Center"><i>Performance Optimization:-</i></h1>
+<h1 align="Center"><i>Performance Optimization⛓️:-</i></h1>
 
 - Optimize your website's performance for faster loading times and improved user satisfaction.
 - Discover techniques for minimizing file sizes, lazy loading images, and reducing HTTP requests.
