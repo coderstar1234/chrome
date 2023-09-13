@@ -66,6 +66,7 @@
 
 - This project is licensed under the MIT License, which means you're free to use, modify, and distribute. 
 - The content as long as you provide appropriate attribution and include the original license.
+
 <hr>
 
 - We hope that this repository serves as a valuable resource for your web designing endeavors. 
